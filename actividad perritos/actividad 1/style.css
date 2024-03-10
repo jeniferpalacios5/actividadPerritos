@@ -1,0 +1,95 @@
+*{
+padding: auto;
+}
+body{
+    background-image: url(imagenes/fondo1.jpg);
+    background-size: cover;
+}
+
+@font-face {
+    font-family: "holyfat";
+    src: url(../tipografia/Holyfat.ttf);
+}
+
+.menu{
+font-family: "holyfat";
+font-size: 30px;
+background-color: rgb(255, 255, 255);
+padding: 5px;
+margin-left: 100px;
+}
+.btn{
+    background-color:rgb(3, 206, 3);
+    height: 40px;
+    margin-left: 200px;
+    
+}
+ul{
+    list-style-type: none;
+    gap: 5%;
+    color: rgb(3, 206, 3);
+}
+.titlle{
+    color: rgb(3, 206, 3);
+    margin-left: 120px;
+    
+}
+.text{
+    color: rgb(0, 195, 255);
+    margin-left: 120px;
+   
+}
+.objetivo{
+font-family: "holyfat";
+color: rgb(3, 206, 3);
+font-size: 30px;
+background-color: rgba(255, 255, 255, 0.527);
+padding: 5px;
+}
+.text1{
+background-color:  rgba(3, 206, 3, 0.568);
+padding: 25px;
+color: white;
+}
+.video{
+margin-left: 130px;    
+}
+
+.temas{
+    font-family: "holyfat";
+    color: rgb(3, 206, 3);
+    font-size: 30px;
+    background-color: rgba(255, 255, 255, 0.527);
+    padding: 5px; 
+}
+.lista{
+    background-color:  rgba(3, 206, 3, 0.568);
+    padding: 15px;
+    
+    color: white;
+    }
+
+    .beneficios{
+        font-family: "holyfat";
+        color: rgb(3, 206, 3);
+        
+
+    }
+.lanc{
+ background-color: rgb(177, 232, 253);
+padding: 5px;
+
+}
+.redes{
+    height: 30px;
+    
+}
+.carousel{
+    width: 300px; 
+    margin-left: 200px;
+}
+.lal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
